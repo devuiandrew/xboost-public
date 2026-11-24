@@ -1,0 +1,665 @@
+{
+  "mainPage": {
+    "navigation": {
+      "select-list": {
+        "vertical-content": {
+          "header": "Vertical Content",
+          "list": {
+            "why-x-boost": {
+              "text": "Why X-Boost",
+              "href": "/#why-x-boost"
+            },
+            "our-cases": {
+              "text": "Our Cases",
+              "href": "/#our-cases"
+            },
+            "how-it-works": {
+              "text": "How it works",
+              "href": "/#how-it-works"
+            }
+          }
+        },
+        "categories": {
+          "header": "Categories",
+          "list": {
+            "faceless": {
+              "text": "Faceless",
+              "href": "/category/faceless"
+            },
+            "talkingHead": {
+              "text": "Talking Head",
+              "href": "/category/talkingHead"
+            },
+            "socialSurvey": {
+              "text": "Social Survey",
+              "href": "/category/socialSurvey"
+            },
+            "thirdPerson": {
+              "text": "Third Person",
+              "href": "/category/thirdPerson"
+            }
+          }
+        },
+        "blog": {
+          "header": "Blog",
+          "href": "/blog"
+        }
+      },
+      "getStarted": "Get Started"
+    },
+    "footer": {
+      "header": "X-BOOST",
+      "textUp": "Unique content for successful promotion in social networks!",
+      "textDown": "Creating compelling videos in your style for all industries and businesses. Reach your audience on Instagram, Youtube, and TikTok with our creative solutions",
+      "links": [
+        {
+          "text": "Vertical Content",
+          "href": "/"
+        },
+        {
+          "text": "Our Cases",
+          "href": "/#our-cases"
+        },
+        {
+          "text": "Why X-Boost",
+          "href": "/#why-x-boost"
+        },
+        {
+          "text": "How it works",
+          "href": "/#how-it-works"
+        },
+        {
+          "text": "Categories",
+          "href": "/#categories"
+        }
+      ],
+      "contacts": {
+        "header": "Contacts",
+        "phone": "Phone:",
+        "email": "Email:"
+      },
+      "socials": {
+        "header": "We are on social media",
+        "links": []
+      },
+      "rights": "Copyright 2024. All rights reserved."
+    },
+    "home": {
+      "header": "Vertical Content for Your Business",
+      "text": "Our team will create memorable vertical video content for social networks that will grab the audience's attention and help you effectively promote your brand. It's time to make a big statement!",
+      "actions": {
+        "text": "Book a Call"
+      }
+    },
+    "socialProof": {
+      "header": "Why X-Boost?",
+      "statistics": [
+        {
+          "label": "Videos created for our clients",
+          "value": "10160+"
+        },
+        {
+          "label": "Marketing costs for our clients",
+          "value": "$217,000"
+        },
+        {
+          "label": "Fastest video delivery",
+          "value": "5 days"
+        },
+        {
+          "label": "Views of our videos",
+          "value": "250M+"
+        }
+      ],
+      "text": "We specialize in creating content for your business that, through social media posting and targeting, will bring you organic reach and increase trust in your business!"
+    },
+    "ourCases": {
+      "header": "Our Cases",
+      "cases": [
+        {
+          "name": "Keen Studio Ua",
+          "description": "Keen Studio Ua is a professional studio specializing in graphic design, brand design, and product design.",
+          "reverse": false,
+          "button": {
+            "text": "Visit Account",
+            "href": "https://www.instagram.com/keen.studio.ua/"
+          },
+          "src": "/video/main-page/cases/case-1.mp4"
+        },
+        {
+          "name": "Grant The Auto",
+          "description": "Grant The Auto is a car dealership specializing in buying, selling, and exchanging cars.",
+          "reverse": true,
+          "button": {
+            "text": "Visit Account",
+            "href": "https://www.instagram.com/grand_the_auto13/"
+          },
+          "src": "/video/main-page/cases/case-2.mp4"
+        },
+        {
+          "name": "Imperial Charm Ua",
+          "description": "Imperial Charm Ua is a clothing brand operating worldwide.",
+          "reverse": false,
+          "button": {
+            "text": "Visit Account",
+            "href": "https://www.instagram.com/imperial_charm_ua/"
+          },
+          "src": "/video/main-page/cases/case-3.mp4"
+        }
+      ]
+    },
+    "moreLang": {
+      "header": "Content in 22+ Languages",
+      "text": "Transform your brand with our multilingual content. Speak in more than 22 languages, our creatives will create compelling and authentic content that can attract a wide audience.",
+      "languages": ["Russian", "Ukrainian", "English", "And others"],
+      "button": {
+        "text": "Start Now"
+      }
+    },
+    "specificity": {
+      "header": "How it works?",
+      "text": "A few simple steps to elevate your content",
+      "stages": [
+        {
+          "count": 1,
+          "header": "First meeting and briefing",
+          "text": "We start with a meeting to better understand your needs and goals. During this meeting, we discuss your ideas, requirements, and preferences. This helps us create a clear vision of the project and identify the key steps needed for its successful implementation.",
+          "src": "/video/main-page/specificity/meeting.mp4"
+        },
+        {
+          "count": 2,
+          "header": "Script Writing",
+          "text": "The script development is divided into two stages:",
+          "subtext": [
+            {
+              "header": "Stage 1:",
+              "text": "We create a list of scripts with a brief description of each concept. After this, you can approve or make changes to these concepts. One concept change is allowed per script during this stage."
+            },
+            {
+              "header": "Stage 2:",
+              "text": "We provide a detailed description of each script. Up to three revisions are allowed for each script, with the possibility of using unused revisions for other scripts."
+            }
+          ],
+          "src": "/video/main-page/specificity/scripting.mp4"
+        },
+        {
+          "count": 3,
+          "header": "Filming",
+          "text": "After the scripts are approved, we have 5 days to produce the videos. During this period, we shoot all the necessary materials according to the approved scripts. Additional equipment or operators, if required, will incur extra costs.",
+          "src": "/video/main-page/specificity/filming.mp4"
+        },
+        {
+          "count": 4,
+          "header": "Editing and Optimization",
+          "text": "After the editing style is approved, we have 5 days to complete the video editing. We offer three editing style options: from simple to more complex. The most interesting and complex option may require additional payment. Up to three revisions are allowed for each video, with the possibility of transferring unused revisions to other videos.",
+          "src": "/video/main-page/specificity/editing.mp4"
+        }
+      ]
+    },
+    "deprecated_prices": {
+      "header": "Price",
+      "switcher": {
+        "oneTimeParche": "Monthly Plan",
+        "subscription": "From three months"
+      },
+      "priceHeader": {
+        "include": "Already included in all tariffs:",
+        "includePlus": "Everything from the monthly plan, plus:",
+        "benefits": [
+          "Personal Manager",
+          "Brainstorming Session",
+          "30 Days Pause",
+          "Price Savings"
+        ],
+        "minusBenefits": [
+          "Competitor Analysis",
+          "TA Analysis",
+          "Shooting",
+          "Editing"
+        ]
+      },
+      "plans": [
+        {
+          "level": "Basic Plan",
+          "price": 180,
+          "discountPrice": 160,
+          "discount": 10,
+          "features": ["4 concepts", "2 actors", "8 finished videos"]
+        },
+        {
+          "level": "Advanced Plan",
+          "price": 310,
+          "discountPrice": 290,
+          "discount": 10,
+          "best": true,
+          "features": ["8 concepts", "4 actors", "16 finished videos"]
+        },
+        {
+          "level": "Premium Plan",
+          "price": 490,
+          "discountPrice": 450,
+          "discount": 10,
+          "features": ["16 concepts", "8 actors", "32 finished videos"]
+        },
+        {
+          "level": "Scalable Plan",
+          "price": "from 15",
+          "hidden": true,
+          "features": ["If you test more than 50 creatives per week"]
+        }
+      ]
+    },
+    "categories": {
+      "header": "Video Content Categories",
+      "text": "Explore our diverse video content categories",
+      "list": [
+        {
+          "title": "Faceless Content",
+          "info": "Refresh your brand without extra faces, highlight the product or service itself, emphasizing its advantages and unique features",
+          "src": "/video/category-page/faceless-main.mp4",
+          "url": "/category/faceless",
+          "buttonText": "View"
+        },
+        {
+          "title": "Talking Head",
+          "info": "Entrust your brand's voice to our talking head. Let your product speak in a language that every customer will understand",
+          "src": "/video/category-page/talkingHead-main.mp4",
+          "url": "/category/talkingHead",
+          "buttonText": "View"
+        },
+        {
+          "title": "Social Survey",
+          "info": "Social surveys elevate your products in the eyes of the audience, making your brand discussable and memorable",
+          "src": "/video/category-page/socialSurvey-main.mp4",
+          "url": "/category/socialSurvey",
+          "buttonText": "View"
+        },
+        {
+          "title": "Third Person",
+          "info": "Combining an actor and a product for maximum persuasiveness. Videos where both the product and the actor interact on screen",
+          "src": "/video/category-page/thirdPerson-main.mp4",
+          "url": "/category/thirdPerson",
+          "buttonText": "View"
+        }
+      ]
+    },
+    "cta": {
+      "header": "Still in doubt? Learn more about social media content promotion",
+      "topText": "Order a short 15-minute call, and we will be happy to discuss all aspects of our cooperation.",
+      "bottomText": "Our experienced team will be happy to share more information about our services and how we can help your brand achieve outstanding social media results.",
+      "button": {
+        "text": "Subscribe to Newsletter"
+      },
+      "call": {
+        "text": "Book a Call"
+      }
+    },
+    "popup": {
+      "header": "X-Boost Newsletter",
+      "description": "Stay updated on new vertical content features!",
+      "getBestCases": "Get the best cases!",
+      "subscribeButton": {
+        "text": "Subscribe",
+        "href": "/subscribe"
+      },
+      "alert": {
+        "emailAlreadySubscribe": {
+          "header": "This email is already subscribed to our updates",
+          "text": "This email is already subscribed to our updates"
+        },
+        "subscribeEmail": {
+          "header": "Successfully",
+          "text": "Your email address has been verified, subscription activated!"
+        },
+        "somethingWrongWithEmail": {
+          "header": "Oops!",
+          "text": "The email address you entered is invalid. Please check the spelling."
+        }
+      }
+    },
+    "cookies": {
+      "header": "This website uses cookies",
+      "text": "This website uses cookies for analytics and to enhance website functionality.",
+      "buttons": {
+        "agree": "Agree",
+        "disagree": "Disagree"
+      }
+    },
+    "not-found": {
+      "header": "Not Found",
+      "text": "Something is missing.",
+      "info": "Sorry, we can't find that page.",
+      "button": {
+        "text": "Back to Home",
+        "href": "/"
+      }
+    }
+  },
+
+  "categoryPage": {
+    "faceless": {
+      "hero": {
+        "header": "Faceless Vertical Video Content",
+        "text": "The perfect choice for focusing on your product or service. We create a video focusing on your product, highlighting its unique features and benefits",
+        "button-text": "Explore",
+        "video-src": "/video/category-page/faceless-main.mp4"
+      },
+      "formats": {
+        "header": "Video Formats",
+        "text": "Examples of hashtags for this category that our clients use and that we create to promote products and services on social networks",
+        "list": [
+          {
+            "names": [
+              "#Transitions",
+              "#TrendingSound",
+              "#PersonalBrand",
+              "#TrendingSound",
+              "#ASMR"
+            ],
+            "videoSrc": "/video/category-page/faceless/f-1.mp4"
+          },
+          {
+            "names": [
+              "#Demonstration",
+              "#Trending Sound",
+              "#Graphics and Text"
+            ],
+            "videoSrc": "/video/category-page/faceless/f-2.mp4"
+          },
+          {
+            "names": [
+              "#Graphics and Text",
+              "#Macro",
+              "#Personal Brand",
+              "#Inspirational",
+              "#Trending Sound"
+            ],
+            "videoSrc": "/video/category-page/faceless/f-3.mp4"
+          },
+          {
+            "names": ["#Personal Brand", "#Transitions"],
+            "videoSrc": "/video/category-page/faceless/f-4.mp4"
+          },
+          {
+            "title": "Title Five",
+            "names": ["#Recipes", "#Macro", "#Transitions", "#Trending Sound"],
+            "videoSrc": "/video/category-page/faceless/f-5.mp4"
+          }
+        ]
+      }
+    },
+    "talkingHead": {
+      "hero": {
+        "header": "Talking Head Vertical Video Content",
+        "text": "An actor, as a talking head, will detail your product, service, or idea, giving the content a voice and personality",
+        "button-text": "Explore",
+        "video-src": "/video/category-page/talkingHead-main.mp4"
+      },
+      "formats": {
+        "header": "Video Formats",
+        "text": "Examples of hashtags for this category that our clients use and that we create to promote products and services on social networks",
+        "list": [
+          {
+            "title": "Title One",
+            "names": [
+              "#Problem Solving",
+              "#Text to Speech",
+              "#Trending Sound",
+              "#Gift Idea",
+              "#Functionality",
+              "#Before After"
+            ],
+            "videoSrc": "/video/category-page/talkingHead/th-1.mp4"
+          },
+          {
+            "title": "Title One",
+            "names": [
+              "#Problem Solving",
+              "#Text to Speech",
+              "#Trending Sound",
+              "#Graphics and Text",
+              "#Green Screen"
+            ],
+            "videoSrc": "/video/category-page/talkingHead/th-2.mp4"
+          },
+          {
+            "title": "Title One",
+            "names": [
+              "#Problem Solving",
+              "#Text to Speech",
+              "#Trending Sound",
+              "#Graphics and Text",
+              "#Transitions"
+            ],
+            "videoSrc": "/video/category-page/talkingHead/th-3.mp4"
+          }
+        ]
+      }
+    },
+    "socialSurvey": {
+      "hero": {
+        "header": "Social Survey Vertical Video Content",
+        "text": "Engage your audience through interaction with you, your product, or service",
+        "button-text": "Explore",
+        "video-src": "/video/category-page/socialSurvey-main.mp4"
+      },
+      "formats": {
+        "header": "Video Formats",
+        "text": "Examples of hashtags for this category that our clients use and that we create to promote products and services on social networks",
+        "list": [
+          {
+            "title": "Title One",
+            "names": [
+              "#Text to Speech",
+              "#Provocation",
+              "#Unboxing",
+              "#ASMR",
+              "#Transitions",
+              "#Gift Idea"
+            ],
+            "videoSrc": "/video/category-page/socialSurvey/ss-1.mp4"
+          },
+          {
+            "title": "Title Two",
+            "names": ["#Problem Solving", "#Text to Speech", "#Before After"],
+            "videoSrc": "/video/category-page/socialSurvey/ss-2.mp4"
+          },
+          {
+            "title": "Title Three",
+            "names": [
+              "#Challenge",
+              "#SocialProof",
+              "#Provocation",
+              "#Transitions",
+              "#TextToSpeech"
+            ],
+            "videoSrc": "/video/category-page/socialSurvey/ss-3.mp4"
+          },
+          {
+            "title": "Title Three",
+            "names": [
+              "#Provocation",
+              "#Text to Speech",
+              "#Transitions",
+              "#Problem Solving"
+            ],
+            "videoSrc": "/video/category-page/socialSurvey/ss-4.mp4"
+          },
+          {
+            "title": "Title Three",
+            "names": [
+              "#Challenge",
+              "#SocialProof",
+              "#Provocation",
+              "#Transitions",
+              "#TextToSpeech"
+            ],
+            "videoSrc": "/video/category-page/socialSurvey/ss-5.mp4"
+          }
+        ]
+      }
+    },
+    "thirdPerson": {
+      "hero": {
+        "header": "Third Person Vertical Video Content",
+        "text": "Actors and your product in action. We create videos where not only is the product or service described, but its use is also demonstrated",
+        "button-text": "Explore",
+        "video-src": "/video/category-page/thirdPerson-main.mp4"
+      },
+      "formats": {
+        "header": "Video Formats",
+        "text": "Examples of hashtags for this category that our clients use and that we create to promote products and services on social networks",
+        "list": [
+          {
+            "names": ["#Enhancement", "#Personal Brand", "#Graphics and Text"],
+            "videoSrc": "/video/category-page/thirdPerson/tp-1.mp4"
+          },
+          {
+            "names": [
+              "#Provocation",
+              "#Problem Solving",
+              "#Functionality",
+              "#Easy to Use",
+              "#Enhancement",
+              "#Text to Speech"
+            ],
+            "videoSrc": "/video/category-page/thirdPerson/tp-2.mp4"
+          },
+          {
+            "names": [
+              "#Personal Brand",
+              "#Graphics and Text",
+              "#Inspirational",
+              "#ASMR"
+            ],
+            "videoSrc": "/video/category-page/thirdPerson/tp-3.mp4"
+          }
+        ]
+      }
+    },
+    "shared": {
+      "calculator": {
+        "header": "Grow Your Business with Us",
+        "text": "Find out how partnering with our company can help increase your revenue and audience reach by entering your details below.",
+        "formEror": {
+          "negativeValueError": "This field cannot be a negative value",
+          "emptyFieldError": "This field cannot be empty",
+          "selectCategoryError": "Select a category",
+          "selectItemError": "You have to select at least one item"
+        },
+        "submitButton": "Calculate",
+        "subscribersInput": {
+          "placeholder": "Subscribers",
+          "description": "Enter the average number of subscribers across your platforms"
+        },
+        "viewsInput": {
+          "placeholder": "Views",
+          "description": "Enter the average number of views on your videos"
+        },
+        "budgetInput": {
+          "placeholder": "Budget",
+          "description": "Enter the amount you spend on video content creation"
+        },
+        "categoryInput": {
+          "placeholder": "Category",
+          "description": "Select a suitable category"
+        },
+        "socialPlatformsInput": {
+          "placeholder": "Social Platforms",
+          "description": "Select the platforms where you publish your videos"
+        },
+        "categoryCoefficient": {
+          "faceless": {
+            "name": "faceless",
+            "coefficient": 1.2
+          },
+          "talkingHead": {
+            "name": "talking head",
+            "coefficient": 1.1
+          },
+          "socialSurvey": {
+            "name": "social survey",
+            "coefficient": 1.3
+          },
+          "thirdPerson": {
+            "name": "third person",
+            "coefficient": 1.5
+          }
+        },
+        "result": {
+          "potentialReach": {
+            "text": "Potential Reach per Month",
+            "description": "Estimated reach based on provided data"
+          },
+          "subscriberGrowth": {
+            "text": "Potential Subscriber Growth per Month",
+            "description": "Estimated increase in subscribers based on provided data"
+          },
+          "totalVideos": {
+            "text": "Total Number of Videos from All Platforms",
+            "description": "Cumulative count of videos across all selected platforms"
+          },
+          "extraViews": {
+            "text": "Extra Views",
+            "description": "Additional views generated from the campaign"
+          },
+          "timeSaved": {
+            "text": "Time Saved",
+            "description": "Estimated time saved by using our service"
+          },
+          "moneySaved": {
+            "text": "Money Saved",
+            "description": "Estimated cost savings from using our service"
+          }
+        },
+        "calculatorDisclaimer": "This calculator is based on approximate data and provides estimated values. Actual results may vary depending on your specific situation."
+      },
+      "other-categories": {
+        "header": "Other Categories",
+        "categoryList": {
+          "faceless": {
+            "title": "Faceless",
+            "info": "Refresh your brand without extra faces, highlight the product or service itself, emphasizing its advantages and unique features",
+            "src": "/video/category-page/faceless-main.mp4",
+            "url": "/category/faceless"
+          },
+          "talkingHead": {
+            "title": "Talking Head",
+            "info": "Entrust your brand's voice to our talking head. Let your product speak in a language that every customer will understand",
+            "src": "/video/category-page/talkingHead-main.mp4",
+            "url": "/category/talkingHead"
+          },
+          "socialSurvey": {
+            "title": "Social Survey",
+            "info": "Social surveys elevate your product in the eyes of the audience, making your brand discussable and memorable",
+            "src": "/video/category-page/socialSurvey-main.mp4",
+            "url": "/category/socialSurvey"
+          },
+          "thirdPerson": {
+            "title": "Third Person",
+            "info": "Combining an actor and a product for maximum persuasiveness. Videos where both the product and the actor interact on screen",
+            "src": "/video/category-page/thirdPerson-main.mp4",
+            "url": "/category/thirdPerson"
+          }
+        },
+        "buttonText": "More details"
+      },
+      "cta": {
+        "header": "Looking for the perfect format for your video content, but don't know which one to choose?",
+        "description": "Do you know which one will be the most effective for your business? Book a call, and we will provide details about each category and help you choose the optimal format that will help you achieve the desired results.",
+        "button-text": "Get in Touch",
+        "img-src": "/imgs/cta.png"
+      }
+    }
+  },
+
+  "shared": {
+    "contactForm": {
+      "href": "https://forms.gle/vSoybKmt6zThdErw6"
+    }
+  },
+  "metadata": {
+    "title": "X-Boost — vertical video content for your business",
+    "description": "Creating memorable vertical video content for social media. Capturing audience attention and effectively promoting your brand. Learn how we work and take your content to the next level"
+  }
+}
